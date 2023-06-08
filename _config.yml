@@ -1,14 +1,14 @@
 title: Hello, world!
 description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sangdob.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Park Sangdo # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 백엔드 너무 재미있습니다!!  # add description
+about-author: Backend Developer  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: sangdob # add your Github handle
