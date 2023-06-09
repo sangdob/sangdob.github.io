@@ -1,5 +1,5 @@
-title: Hello, world!
-description: > # this means to ignore newlines until "baseurl:"
+title: snagdob.github.io
+description: "" # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://sangdob.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -7,16 +7,14 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Park Sangdo # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: profile.png # add your photo
 about-author: Backend Developer  # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
 social-github: sangdob # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: skql1358@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: sangdob.github.io # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
